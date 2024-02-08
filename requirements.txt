@@ -1,0 +1,13 @@
+langchain
+unstructured[pdf] # Document loading
+chromadb # Vector storage
+tiktoken  # For embeddings
+altair
+huggingface-hub
+InstructorEmbedding
+sentence-transformers
+kaleido
+python-multipart
+cohere
+openai
+typing-extensions
